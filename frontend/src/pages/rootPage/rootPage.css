@@ -1,0 +1,10 @@
+.header {
+  font-size: 40pt;
+  background-color: black;
+  color: yellow;
+  border-bottom: 1px solid yellow;
+  padding: 5px;
+}
+.content {
+  padding: 10px;
+}

@@ -1,0 +1,6 @@
+.character-listing {
+  text-decoration: none;
+  .card {
+    width: 9rem;
+  }
+}

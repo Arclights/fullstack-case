@@ -1,0 +1,13 @@
+spring:
+  application.name: SVTi-backend-tommy
+  datasource:
+    url: jdbc:h2:mem:starwars
+    username: sa
+    password: password
+    driverClassName: org.h2.Driver
+    jpa:
+      database-platform: org.hibernate.dialect.H2Dialect
+springdoc.swagger-ui.path: /
+#logging:
+#  level:
+#    root: DEBUG

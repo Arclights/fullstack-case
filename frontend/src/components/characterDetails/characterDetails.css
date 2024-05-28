@@ -1,0 +1,10 @@
+.character-details {
+  align-items: center;
+  .card-img {
+    width: 200px;
+  }
+  .homeworld-content {
+    display: flex;
+    align-items: center;
+  }
+}
